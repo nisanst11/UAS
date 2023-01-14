@@ -93,5 +93,6 @@ def cari_data(self):
 
 ## LINK YOUTUBE
 penjelasan lebih lengkap bisa liahat di vidio Youtube
+https://youtu.be/kXA30Az2jF0
 
 
